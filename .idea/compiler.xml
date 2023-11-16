@@ -9,5 +9,11 @@
         <module name="junitdemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="20" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="junitdemo" options="" />
+    </option>
   </component>
 </project>
